@@ -1,0 +1,10 @@
+=== SIMULATION RESULTS ===
+
+memory_accesses: 43
+finished_processes: 6
+file_reads: 0
+context_switches: 16
+file_writes: 4
+total_time: 127
+page_faults: 21
+file_conflicts: 0
